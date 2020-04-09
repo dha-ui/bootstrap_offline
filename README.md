@@ -1,6 +1,6 @@
 ## Quick Start
 
-Selengkapnya [Download Document]()<br>
+Selengkapnya [Download Document](https://github.com/dha-ui/bootstrap_offline)<br>
 Untuk latihan gunakan [Visual Studio Code](https://code.visualstudio.com/Download) atau [Notepad++](https://notepad-plus-plus.org/downloads/)
 
 #### Sosial Media
